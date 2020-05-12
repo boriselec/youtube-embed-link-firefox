@@ -1,0 +1,16 @@
+{
+    "name": "Youtube embed link",
+    "description": "Redirects all youtube links to embed (fullscreen) version",
+    "version": "0.0.1",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+        "permissions": [
+            "*://*.youtube.com/watch*",
+            "webRequest",
+            "webRequestBlocking"
+    ],
+
+    "manifest_version": 2
+}
