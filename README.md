@@ -1,1 +1,1 @@
-# Redirects all youtube links to embed (fullscreen) version
+https://addons.mozilla.org/en-US/firefox/addon/youtube-embed-link/
